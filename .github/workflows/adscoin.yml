@@ -20,5 +20,7 @@ jobs:
       - name: PHP Syntax Check
         run: php -l adscoin.php
 
-      - name: Jalankan adscoin.php
-        run: php adscoin.php
+      - name: Run adscoin.php
+        run: |
+             export TERM=xterm
+             php adscoin.php
