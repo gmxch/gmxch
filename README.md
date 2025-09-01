@@ -29,7 +29,9 @@
 
 <details>
   <summary>Public Repo</summary>
+  <a href="https://github.com/gmxch/php-build">
   <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=php&logoColor=777BB4" width="20" alt="PHP"/> PHP-BUILD
+  </a>
 </details>
 
 ---
