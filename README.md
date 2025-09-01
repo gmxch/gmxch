@@ -55,23 +55,12 @@
 <details>
   <summary>DONATE?</summary>
 
-  <a href="XMR_LINK">
-    <img src="./asset/icons/XMR.png" width="30" alt="XMR"/>
-  </a>
-  <a href="https://www.paypal.com/">
-    <img src="./asset/icons/PYPL.png" height="30" alt="PayPal"/>
-    gamamoch@gmail.com
-  </a>
-  <a href="BSC_LINK">
-    <img src="./asset/icons/BSC.png" width="30" alt="BSC"/>
-  </a>
-  <a href="payeer.com">
-    <img src="./asset/icons/PYR.png" height="30" alt="PAYEER"/>
-    P1085631530
-  </a>
-  <a href="LTC_LINK">
-    <img src="./asset/icons/LTC.png" height="30" alt="LTC"/>
-  </a>
+  - <a href="XMR_LINK"><img src="./asset/icons/XMR.png" width="20"/> XMR</a>  
+  - <a href="https://www.paypal.com/"><img src="./asset/icons/PYPL.png" width="20"/> gamamoch@gmail.com</a>  
+  - <a href="BSC_LINK"><img src="./asset/icons/BSC.png" width="20"/> BSC</a>  
+  - <a href="https://payeer.com"><img src="./asset/icons/PYR.png" width="20"/> P1085631530</a>  
+  - <a href="LTC_LINK"><img src="./asset/icons/LTC.png" width="20"/> LTC</a>  
+
 </details>
 
 ---
