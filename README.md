@@ -10,13 +10,13 @@
   <a href="https://instagram.com/gmxch">
     <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=instagram&logoColor=E4405F" width="30" alt="Instagram"/>
   </a>
-  <a href="https://t.me/gmxch">
+  <a href="https://its.gmxch.t.me">
     <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=telegram&logoColor=0088CC" width="30" alt="Telegram"/>
   </a>
   <a href="https://x.com/gmxch">
     <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=x&logoColor=1DA1F2" width="30" alt="X"/>
   </a>
-  <a href="https://fb.com/gmxch">
+  <a href="https://fb.com/its.gmxch">
     <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=facebook&logoColor=1877F2" width="30" alt="Facebook"/>
   </a>
   <a href="https://www.tiktok.com/@gmxch">
