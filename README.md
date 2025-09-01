@@ -8,22 +8,22 @@
   <summary>my social</summary>
 
   <a href="https://instagram.com/gmxch">
-    <img src="./asset/icons/IG.png" width="30" alt="Instagram"/>
+    <img src="./asset/icons/IG.png" width="40" alt="Instagram"/>
   </a>
-  <a href="https://its.gmxch.t.me">
-    <img src="./asset/icons/TELE.png" width="30" alt="Telegram"/>
+  <a href="https://its_gmxch.t.me">
+    <img src="./asset/icons/TELE.png" width="40" alt="Telegram"/>
   </a>
   <a href="https://x.com/gmxch">
-    <img src="./asset/icons/X.png" width="30" alt="X"/>
+    <img src="./asset/icons/X.png" width="40" alt="X"/>
   </a>
   <a href="https://fb.com/its.gmxch">
-    <img src="./asset/icons/FB.png" width="30" alt="Facebook"/>
+    <img src="./asset/icons/FB.png" width="40" alt="Facebook"/>
   </a>
   <a href="https://www.tiktok.com/@gmxch">
-    <img src="./asset/icons/TT.png" width="30" alt="TikTok"/>
+    <img src="./asset/icons/TT.png" width="40" alt="TikTok"/>
   </a>
   <a href="https://line.me/ti/p/@gmxch">
-    <img src="./asset/icons/LINE.png" width="30" alt="LINE"/>
+    <img src="./asset/icons/LINE.png" width="40" alt="LINE"/>
   </a>
 </details>
 
