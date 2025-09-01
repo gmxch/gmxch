@@ -67,7 +67,7 @@
   </a>
   <a href="payeer.com">
     <img src="./asset/icons/PYR.png" height="30" alt="PAYEER"/>
-    p1085631530
+    P1085631530
   </a>
   <a href="LTC_LINK">
     <img src="./asset/icons/LTC.png" height="30" alt="LTC"/>
