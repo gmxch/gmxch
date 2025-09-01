@@ -11,7 +11,7 @@
     <img src="./asset/icons/IG.png" width="30" alt="Instagram"/>
   </a>
   <a href="https://its.gmxch.t.me">
-    <img src=".asset/icons/TELE.png" width="30" alt="Telegram"/>
+    <img src="./asset/icons/TELE.png" width="30" alt="Telegram"/>
   </a>
   <a href="https://x.com/gmxch">
     <img src="./asset/icons/X.png" width="30" alt="X"/>
