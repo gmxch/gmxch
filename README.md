@@ -29,7 +29,7 @@
 
 <details>
   <summary>Public Repo</summary>
-  - [PHP-BUILD](https://github.com/gmxch/php-build)
+  - [PHP-BUILD]
 </details>
 
 ---
