@@ -29,7 +29,6 @@
 
 <details>
   <summary>Public Repo</summary>
-  - [PHP-BUILD]
 </details>
 
 ---
