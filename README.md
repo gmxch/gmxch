@@ -7,22 +7,22 @@
 <details>
   <summary>my social</summary>
 
-  <a href="https://instagram.com/gmxch">
+  <a href="https://instagram.com/gmxch_">
     <img src="./asset/icons/IG.png" width="40" alt="Instagram"/>
   </a>
-  <a href="https://its_gmxch.t.me">
+  <a href="https://gamamoch.t.me">
     <img src="./asset/icons/TELE.png" width="40" alt="Telegram"/>
   </a>
-  <a href="https://x.com/gmxch">
+  <a href="https://x.com/gmxch_">
     <img src="./asset/icons/X.png" width="40" alt="X"/>
   </a>
   <a href="https://fb.com/its.gmxch">
     <img src="./asset/icons/FB.png" width="40" alt="Facebook"/>
   </a>
-  <a href="https://www.tiktok.com/@gmxch">
+  <a href="https://www.tiktok.com/@gmxch_">
     <img src="./asset/icons/TT.png" width="40" alt="TikTok"/>
   </a>
-  <a href="https://line.me/ti/p/@gmxch">
+  <a href="https://line.me/ti/p/@gmxch_">
     <img src="./asset/icons/LINE.png" width="40" alt="LINE"/>
   </a>
 </details>
@@ -32,22 +32,6 @@
 </details>
 
 ---
-
-> **Note:** 89% VIBE-CODER lol 😎
-
-## Game Experience
-- PUBG
-- BLOODSTRIKE
-- COC
-
-## Work Experience
-- Buruh gulungan-benang
-- Kuli proyek
-- Helper welder
-
-## Personal
-- Height: 160+ cm
-- Weight: 50+ kg
 
 ---
 
